@@ -5,7 +5,7 @@ Will be implementing an optional argument system after if requested.
 Usage
   Run in a cron tab or windows task scheduler every night at 11:59 PM. 
   Active internet connection required.
-  Modifications 
+ 
 
 
 Tech Stack
