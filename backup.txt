@@ -1,0 +1,20 @@
+first = 'formData%5Bfname%5D='
+last = '&formData%5Blname%5D='
+email = '&formData%5Bemail%5D='
+id = '&bookings%5B0%5D%5Bid%5D=1'
+eid = '&bookings%5B0%5D%5Beid%5D=11438'
+gid = '&bookings%5B0%5D%5Bgid%5D=2744'
+lid = '&bookings%5B0%5D%5Blid%5D=1534'
+startTime = '&bookings%5B0%5D%5Bstart%5D='
+endTime = '&bookings%5B0%5D%5Bend%5D='
+
+
+
+POST /ajax/space/book?bookings[0][fnam=Matthew&amp; bookings[0][lname]=Rogan&amp; bookings[0][email]=roga0010@algonquinlive.com&amp; bookings[0][id]=1&amp; bookings[0][eid]=10435&amp; bookings[0][gid]=2744&amp; bookings[0][lid]=1534&amp; bookings[0][start]=2019-03-24+20:15&amp; bookings[0][end]=2019-03-24+21:15&amp; bookings[0][returnUrl]=/reserve/meeting-rooms&amp; bookings[0][forcedEmail] HTTP/1.1
+Host: algonquincollege.libcal.com
+Content-Type: application/x-www-form-urlencoded
+Referer: https://algonquincollege.libcal.com/reserve/meeting-rooms
+cache-control: no-cache
+Postman-Token: e9acac28-745b-4ade-97d8-e4009243698a
+formData%5Bfname%5D=Kevin&formData%5Blname%5D=Mott&formData%5Bemail%5D=mott0032%40algonquinlive.com&bookings%5B0%5D%5Bid%5D=1&bookings%5B0%5D%5Beid%5D=10436&bookings%5B0%5D%5Bgid%5D=2744&bookings%5B0%5D%5Blid%5D=1534&bookings%5B0%5D%5Bstart%5D=2019-04-15+11%3A30&bookings%5B0%5D%5Bend%5D=2019-04-15+13%3A30
+------WebKitFormBoundary7MA4YWxkTrZu0gW--
